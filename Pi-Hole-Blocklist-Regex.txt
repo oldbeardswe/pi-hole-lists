@@ -1,3 +1,0 @@
-(^|\.)(cn|ru|hk)$               --China, Russia, Hong-Kong
-(\.|^)discoveryplus\.com$       --Discoveryplus is hbomax
-(\.|^)viaplay\.(se|com)$        --Fuck viaplay, ads is unblockable
