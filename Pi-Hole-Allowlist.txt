@@ -1,0 +1,43 @@
+# oldbeardswe pi-hole allowlist
+# Last updated: 2025-08-20
+
+# Microsoft
+activity.windows.com # ea play on xbox
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+msedge.api.cdp.microsoft.com # ms edge updater
+slscr.update.microsoft.com
+wdcp.microsoft.com
+
+# Google
+android.clients.google.com
+firestore.googleapis.com
+googleapis.l.google.com # gmail
+mtalk.google.com # push notifications
+people-pa.googleapis.com
+reminders-pa.googleapis.com
+s.youtube.com
+s.ytimg.com
+stats.g.doubleclick.net
+video-stats.l.google.com
+video-stats.video.google.com
+youtube-nocookie.com # youtube history
+
+# Signal Messaging app
+giphy-proxy-production.whispersystems.org
+textsecure-service-whispersystems.org
+turn1.whispersystems.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+
+# Streaming video
+analytics.svt.se
+helix.svt.se
+
+# Other
+device-metrics-us-2.amazon.com # amazon alexa and amazon app
+device-metrics-us.amazon.com # amazon alexa and amazon app
+gdlp01.c-wss.com # canon printers
+prod.telemetry.ros.rockstargames.com # Grand Theft Auto V Online PC
