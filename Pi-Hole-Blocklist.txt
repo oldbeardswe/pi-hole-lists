@@ -1,0 +1,55 @@
+# Title: oldbeardswe Pi-Hole Blocklist
+# Description: Small collection of url's usually not found on other blocklists
+# Last modified: 2025-08-19
+
+# DNS
+dns.google
+dns.google.com
+dns64.dns.google
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+google-public-dns-a.google.com
+google-public-dns-b.google.com
+mask-h2.icloud.com
+mask.apple-dns.net
+mask.icloud.com
+one.one.one.one
+
+# Microsoft
+ads.microsoft.com
+analytics.microsoft.com
+api.bingads.microsoft.com
+bingads.microsoft.com
+feedback.microsoft-hohm.com
+oca.telemetry.microsoft.com
+p.microsoft.com
+secure.bingads.microsoft.com
+spynet.microsoft.com
+spynet2.microsoft.com
+spynetalt.microsoft.com
+statsfe1.ws.microsoft.com
+statsfe2.ws.microsoft.com
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+watson.microsoft.com
+watson.telemetry.microsoft.com
+wd.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+
+# Ads & Tracking
+ads-router-eu.truecaller.com
+analytics-fe.digital-cloud-prem.medallia.eu
+cmp.aftonbladet.se
+feed.ff.avast.com
+fundingchoicesmessages.google.com
+google.com.onion
+goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+id.aftonbladet.se
+tracking.expressen.se
+variations.brave.com
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+
+# Random sites
+xhamsterflirt.com
+xhamsterlive.com
