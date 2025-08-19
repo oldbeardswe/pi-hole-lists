@@ -2,6 +2,14 @@
 # Description: Small collection of url's usually not found on other blocklists
 # Last modified: 2025-08-19
 
+# Firefox
+location.services.mozilla.com
+firefox.settings.services.mozilla.com # firefox safebrowsing
+ads.mozilla.org
+
+# Google
+safebrowsing.googleapis.com
+
 # DNS
 dns.google
 dns.google.com
