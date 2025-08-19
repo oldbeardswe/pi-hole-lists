@@ -1,7 +1,0 @@
-# Title: oldbeardswe pi-hole regex allowlist
-# Last updated: 2025-08-19
-
-# Main
-(^|\.)samsungcloudcdn\.com$ # samsung updates
-(^|\.)samsungcloudsolution\.com$ # prevents internet connection
-(^|\.)samsungotn\.net$ # samsung updates
