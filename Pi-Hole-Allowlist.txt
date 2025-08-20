@@ -1,6 +1,9 @@
 # oldbeardswe pi-hole allowlist
 # Last updated: 2025-08-20
 
+# Firefox
+shavar.services.mozilla.com # safebrowsing list update
+
 # Microsoft
 activity.windows.com # ea play on xbox
 displaycatalog.mp.microsoft.com
@@ -15,6 +18,7 @@ wdcp.microsoft.com
 # Google
 android.clients.google.com
 firestore.googleapis.com
+fundingchoicesmessages.google.com # ad stuff - can break sites - block in ublock origin instead
 googleapis.l.google.com # gmail
 mtalk.google.com # push notifications
 people-pa.googleapis.com
@@ -41,3 +45,5 @@ device-metrics-us-2.amazon.com # amazon alexa and amazon app
 device-metrics-us.amazon.com # amazon alexa and amazon app
 gdlp01.c-wss.com # canon printers
 prod.telemetry.ros.rockstargames.com # Grand Theft Auto V Online PC
+smods.ru # game mods
+catalogue.smods.ru # game mods
