@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-08-20
+# Last modified: 2025-08-21
 
 # Firefox
 ads.mozilla.org
@@ -52,9 +52,15 @@ wdcpalt.microsoft.com
 paypalobjects.com
 paypal.com
 
+# tv4 play
+a-fds.youborafds01.com # tv4 adblock
+a113.dscv.akamai.net # tv4 adblock
+tvm-tv4-freewheel.akamaized.net
+
 # Other
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
+api.privacy-center.org
 cmp.aftonbladet.se
 feed.ff.avast.com
 fundingchoicesmessages.google.com
@@ -64,6 +70,6 @@ id.aftonbladet.se
 tracking.expressen.se
 variations.brave.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-api.privacy-center.org
 xhamsterflirt.com
 xhamsterlive.com
+
