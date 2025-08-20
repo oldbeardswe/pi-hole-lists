@@ -3,12 +3,14 @@
 # Last modified: 2025-08-19
 
 # Firefox
-location.services.mozilla.com
-firefox.settings.services.mozilla.com # firefox safebrowsing
 ads.mozilla.org
+detectportal.firefox.com # captive-portal
+firefox.settings.services.mozilla.com # settings sync and some telemetry collection
+location.services.mozilla.com
 
 # Google
-safebrowsing.googleapis.com
+safebrowsing.googleapis.com # sends info to google server about every site you visit
+fonts.gstatic.com # why download fonts all the time when there are fonts already installed in browser - just tracking
 
 # DNS
 dns.google
@@ -45,7 +47,11 @@ wd.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 
-# Ads & Tracking
+# Paypal - Boycott this shit
+paypalobjects.com
+paypal.com
+
+# Other
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
 cmp.aftonbladet.se
@@ -57,7 +63,6 @@ id.aftonbladet.se
 tracking.expressen.se
 variations.brave.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-
-# Random sites
+api.privacy-center.org
 xhamsterflirt.com
 xhamsterlive.com
