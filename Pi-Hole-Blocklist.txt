@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-08-19
+# Last modified: 2025-08-20
 
 # Firefox
 ads.mozilla.org
@@ -11,6 +11,7 @@ location.services.mozilla.com
 # Google
 safebrowsing.googleapis.com # sends info to google server about every site you visit
 fonts.gstatic.com # why download fonts all the time when there are fonts already installed in browser - just tracking
+fonts.googleapis.com # fonts
 
 # DNS
 dns.google
