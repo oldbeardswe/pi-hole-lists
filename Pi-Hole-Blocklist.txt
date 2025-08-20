@@ -10,8 +10,8 @@ location.services.mozilla.com
 
 # Google
 safebrowsing.googleapis.com # sends info to google server about every site you visit
-fonts.gstatic.com # why download fonts all the time when there are fonts already installed in browser - just tracking
-fonts.googleapis.com # fonts
+#fonts.gstatic.com # why download fonts all the time when there are fonts already installed in browser - just tracking
+#fonts.googleapis.com # fonts
 
 # DNS
 dns.google
