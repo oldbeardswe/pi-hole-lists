@@ -53,9 +53,12 @@ paypalobjects.com
 paypal.com
 
 # tv4 play
-a-fds.youborafds01.com # tv4 adblock
-a113.dscv.akamai.net # tv4 adblock
-tvm-tv4-freewheel.akamaized.net
+758658057962787.tv4mms.a2d.tv
+a-fds.youborafds01.com #flashback
+a113.dscv.akamai.net #flashback
+prism-ads-cdn.a2d.tv
+prism.a2d.tv
+tvm-tv4-freewheel.akamaized.net #flashback
 
 # Other
 ads-router-eu.truecaller.com
