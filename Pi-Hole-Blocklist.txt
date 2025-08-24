@@ -1,17 +1,16 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-08-21
+# Last modified: 2025-08-24
 
 # Firefox
 ads.mozilla.org
 detectportal.firefox.com # captive-portal
 firefox.settings.services.mozilla.com # settings sync and some telemetry collection
 location.services.mozilla.com
+shavar.services.mozilla.com # safebrowsing list update
 
 # Google
 safebrowsing.googleapis.com # sends info to google server about every site you visit
-fonts.gstatic.com # why download fonts all the time when there are fonts already installed in browser - just tracking
-fonts.googleapis.com # fonts
 
 # DNS
 dns.google
