@@ -59,6 +59,11 @@ prism-ads-cdn.a2d.tv
 prism.a2d.tv
 tvm-tv4-freewheel.akamaized.net #flashback
 
+# Aftonbladet - schibsted
+region-api.inventory.schibsted.io
+session-service.login.schibsted.com
+static.privacy.schibsted.com
+
 # Other
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
