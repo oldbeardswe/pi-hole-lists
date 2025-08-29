@@ -1,5 +1,5 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-08-24
+# Last updated: 2025-08-29
 
 # Microsoft
 activity.windows.com # ea play on xbox
