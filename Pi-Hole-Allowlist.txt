@@ -1,5 +1,5 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-08-29
+# Last updated: 2025-09-01
 
 # Microsoft
 activity.windows.com # ea play on xbox
@@ -39,15 +39,17 @@ whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 analytics.svt.se
 helix.svt.se
 
-# Qualcomm GPS. Privacy risk but needed for gps. Servers are in China.
+# Qualcomm China. Small privacy risk but needed for normal phone gps function.
+# Almost every phone with qualcomm do this.
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 
 # Other
+catalogue.smods.ru # game mods
 device-metrics-us-2.amazon.com # amazon alexa and amazon app
 device-metrics-us.amazon.com # amazon alexa and amazon app
 gdlp01.c-wss.com # canon printers
+license.theoplayer.com # Play videos on expressen.se
 prod.telemetry.ros.rockstargames.com # Grand Theft Auto V Online PC
 smods.ru # game mods
-catalogue.smods.ru # game mods

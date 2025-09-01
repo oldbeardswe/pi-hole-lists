@@ -1,25 +1,12 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-08-29
+# Last modified: 2025-09-01
 
 # Firefox
 ads.mozilla.org
 detectportal.firefox.com # captive-portal
 firefox.settings.services.mozilla.com # settings sync and some telemetry collection
-shavar.services.mozilla.com # safebrowsing list update
-
-# DNS
-dns.google
-dns.google.com
-dns64.dns.google
-doh.dns.apple.com
-doh.dns.apple.com.v.aaplimg.com
-google-public-dns-a.google.com
-google-public-dns-b.google.com
-mask-h2.icloud.com
-mask.apple-dns.net
-mask.icloud.com
-one.one.one.one
+push.services.mozilla.com
 
 # Microsoft
 ads.microsoft.com
@@ -51,20 +38,11 @@ prism-ads-cdn.a2d.tv
 prism.a2d.tv
 tvm-tv4-freewheel.akamaized.net #flashback
 
-# Aftonbladet - schibsted
-cmp.aftonbladet.se
-id.aftonbladet.se
-region-api.inventory.schibsted.io
-session-service.login.schibsted.com
-static.privacy.schibsted.com
-
 # Other
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
+anon1.gt232558.com # Unknown? Found on samsung phone.
 feed.ff.avast.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 tracking.expressen.se
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-xhamsterflirt.com
-xhamsterlive.com
-
