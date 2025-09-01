@@ -39,6 +39,11 @@ whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 analytics.svt.se
 helix.svt.se
 
+# Qualcomm GPS. Privacy risk but needed for gps. Servers are in China.
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
 # Other
 device-metrics-us-2.amazon.com # amazon alexa and amazon app
 device-metrics-us.amazon.com # amazon alexa and amazon app
