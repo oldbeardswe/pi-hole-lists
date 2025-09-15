@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-09-01
+# Last modified: 2025-09-15
 
 # Firefox
 ads.mozilla.org
@@ -45,4 +45,6 @@ anon1.gt232558.com # Unknown? Found on samsung phone.
 feed.ff.avast.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 tracking.expressen.se
+viaplay.com # Skitsida. Går ej att blocka ads.
+viaplay.se # Skitsida. Går ej att blocka ads.
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
