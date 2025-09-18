@@ -1,12 +1,29 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-09-15
+# Last modified: 2025-09-18
+
+# GOOGLE IS EVIL!!!
+auditrecording-pa.googleapis.com # Telemetry
+clienttracing-pa.googleapis.com # Telemetry
+datasaver.googleapis.com # Chrome's "data saver" feature
+feedback-pa.googleapis.com # Telemetry
+gvt2-cn.com # Chiina
+gvt2.com # Telemetry
+gvt3.com # Telemetry
+pay-users-pa.googleapis.com # Browser Hijacking
 
 # Firefox
 ads.mozilla.org
 detectportal.firefox.com # captive-portal
 firefox.settings.services.mozilla.com # settings sync and some telemetry collection
 push.services.mozilla.com
+
+# Eufy security - Undersök
+# app-house-eu-pr.eufy.com
+# app-news-eu-pr.eufy.com
+# app-shopping-eu-pr.eufy.com
+# mall-web-eu.eufy.com
+# pro-monitoring-eu-pr.eufy.com
 
 # Microsoft
 ads.microsoft.com
