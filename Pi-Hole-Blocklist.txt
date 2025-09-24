@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-09-18
+# Last modified: 2025-09-24
 
 # GOOGLE IS EVIL!!!
 auditrecording-pa.googleapis.com # Telemetry
@@ -27,10 +27,24 @@ push.services.mozilla.com
 
 # Microsoft
 ads.microsoft.com
+alpha.telemetry.microsoft.com
 analytics.microsoft.com
 api.bingads.microsoft.com
+asimov-win.settings.data.microsoft.com.akadns.net
 bingads.microsoft.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+copilot-telemetry.githubusercontent.com
+copilot.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+events-sandbox.data.microsoft.com
+events.data.microsoft.com
 feedback.microsoft-hohm.com
+geo.settings-win.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+modern.watson.data.microsoft.com.akadns.net
 oca.telemetry.microsoft.com
 p.microsoft.com
 secure.bingads.microsoft.com
@@ -39,8 +53,16 @@ spynet2.microsoft.com
 spynetalt.microsoft.com
 statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
+telecommand.telemetry.microsoft.com
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
+v10-win.vortex.data.microsoft.com.akadns.net
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.events.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
 watson.microsoft.com
 watson.telemetry.microsoft.com
 wd.microsoft.com
@@ -59,9 +81,14 @@ tvm-tv4-freewheel.akamaized.net #flashback
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
 anon1.gt232558.com # Unknown? Found on samsung phone.
+cdon.se # Bluffsida
+cmp.heise.de
 feed.ff.avast.com
+fireoscaptiveportal.com
+firetvcaptiveportal.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 tracking.expressen.se
 viaplay.com # Skitsida. Går ej att blocka ads.
 viaplay.se # Skitsida. Går ej att blocka ads.
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+yandex.ru
