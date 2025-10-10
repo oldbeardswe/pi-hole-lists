@@ -81,7 +81,7 @@ tvm-tv4-freewheel.akamaized.net #flashback
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
 anon1.gt232558.com # Unknown? Found on samsung phone.
-cdon.se # Bluffsida
+# cdon.se # Bluffsida
 cmp.heise.de
 feed.ff.avast.com
 fireoscaptiveportal.com
