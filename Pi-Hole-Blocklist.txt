@@ -7,7 +7,7 @@ auditrecording-pa.googleapis.com # Telemetry
 clienttracing-pa.googleapis.com # Telemetry
 datasaver.googleapis.com # Chrome's "data saver" feature
 feedback-pa.googleapis.com # Telemetry
-gvt2-cn.com # Chiina
+gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
 pay-users-pa.googleapis.com # Browser Hijacking
@@ -81,12 +81,14 @@ tvm-tv4-freewheel.akamaized.net #flashback
 ads-router-eu.truecaller.com
 analytics-fe.digital-cloud-prem.medallia.eu
 anon1.gt232558.com # Unknown? Found on samsung phone.
-# cdon.se # Bluffsida
+cdon.com # Bedrägeri
+cdon.se # Bedrägeri
 cmp.heise.de
 feed.ff.avast.com
 fireoscaptiveportal.com
 firetvcaptiveportal.com
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+nordgross.se # Bedrägeri
 tracking.expressen.se
 viaplay.com # Skitsida. Går ej att blocka ads.
 viaplay.se # Skitsida. Går ej att blocka ads.
