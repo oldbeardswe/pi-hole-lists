@@ -1,16 +1,40 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-09-01
+# Last updated: 2025-10-23
+
+# Microsoft Defender Antivirus cloud-delivered protection
+wd.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+
+# Microsoft Update Service (MU) and Windows Update Service (WU)
+# These services allow security intelligence and product updates
+ctldl.windowsupdate.com
+delivery.mp.microsoft.com
+fe3.delivery.mp.microsoft.com
+update.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+
+# Security intelligence updates Alternate Download Location (ADL)
+# Alt location for Microsoft Defender Antivirus Security intelligence updates
+definitionupdates.microsoft.com
+download.microsoft.com
+download.windowsupdate.com
+fe3cr.delivery.mp.microsoft.com
+go.microsoft.com
+
+# Certificate Revocation List (CRL)
+# Windows use this list while creating the SSL connection to MAPS for updating the CRL
+crl.microsoft.com
 
 # Microsoft
 activity.windows.com # ea play on xbox
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 fe2cr.update.microsoft.com
-fe3cr.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 msedge.api.cdp.microsoft.com # ms edge updater
 slscr.update.microsoft.com
-wdcp.microsoft.com
 
 # Google
 android.clients.google.com
