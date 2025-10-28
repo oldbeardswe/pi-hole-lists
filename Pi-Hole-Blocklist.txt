@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-10-23
+# Last modified: 2025-10-28
 
 # GOOGLE IS EVIL!!!
 auditrecording-pa.googleapis.com # Telemetry
@@ -11,6 +11,8 @@ fonts.googleapis.com
 gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
+goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 pay-users-pa.googleapis.com # Browser Hijacking
 
 # Firefox
@@ -18,6 +20,10 @@ ads.mozilla.org
 detectportal.firefox.com # captive-portal
 firefox.settings.services.mozilla.com # settings sync and some telemetry collection
 push.services.mozilla.com
+
+# Microsoft Bing
+rewards.bing.com
+testfamilysafety.bing.com
 
 # Eufy security - Undersök
 # app-house-eu-pr.eufy.com
@@ -78,20 +84,18 @@ prism.a2d.tv
 tvm-tv4-freewheel.akamaized.net #flashback
 
 # Other
-ads-router-eu.truecaller.com
-analytics-fe.digital-cloud-prem.medallia.eu
+ads-router-eu.truecaller.com # Truecaller app
+analytics-fe.digital-cloud-prem.medallia.eu # Truecaller app
 anon1.gt232558.com # Unknown? Found on samsung phone.
 cdon.com # Bedrägeri
 cdon.se # Bedrägeri
 cmp.heise.de
-feed.ff.avast.com
+feed.ff.avast.com # Alarmclock Extreme android app
 fireoscaptiveportal.com
 firetvcaptiveportal.com
-goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 nordgross.se # Bedrägeri
 tracking.aftonbladet.se
 tracking.expressen.se
 viaplay.com # Skitsida. Går ej att blocka ads.
 viaplay.se # Skitsida. Går ej att blocka ads.
-www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 yandex.ru
