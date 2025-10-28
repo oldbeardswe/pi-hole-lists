@@ -7,6 +7,7 @@ auditrecording-pa.googleapis.com # Telemetry
 clienttracing-pa.googleapis.com # Telemetry
 datasaver.googleapis.com # Chrome's "data saver" feature
 feedback-pa.googleapis.com # Telemetry
+fonts.googleapis.com
 gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
