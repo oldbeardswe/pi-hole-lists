@@ -1,5 +1,5 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-10-23
+# Last updated: 2025-10-28
 
 # Microsoft Defender Antivirus cloud-delivered protection
 wd.microsoft.com
@@ -39,8 +39,6 @@ slscr.update.microsoft.com
 # Google
 android.clients.google.com
 firestore.googleapis.com
-fonts.googleapis.com
-fonts.gstatic.com
 fundingchoicesmessages.google.com # ad stuff - can break sites - block in ublock origin instead
 googleapis.l.google.com # gmail
 mtalk.google.com # push notifications
