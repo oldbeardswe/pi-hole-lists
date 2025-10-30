@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-10-28
+# Last modified: 2025-10-30
 
 # GOOGLE IS EVIL!!!
 auditrecording-pa.googleapis.com # Telemetry
@@ -94,9 +94,11 @@ cmp.heise.de
 feed.ff.avast.com # Alarmclock Extreme android app
 fireoscaptiveportal.com
 firetvcaptiveportal.com
+m1.tuyaeu.com # Something with smarthome
 nordgross.se # Bedrägeri
 tracking.aftonbladet.se
 tracking.expressen.se
+tuyaeu.com # Something with smarthome
 viaplay.com # Skitsida. Går ej att blocka ads.
 viaplay.se # Skitsida. Går ej att blocka ads.
 yandex.ru
