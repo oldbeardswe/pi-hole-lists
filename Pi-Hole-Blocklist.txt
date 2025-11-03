@@ -1,20 +1,23 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-10-30
+# Last modified: 2025-11-03
 
-# GOOGLE IS EVIL!!!
-auditrecording-pa.googleapis.com # Telemetry
-clienttracing-pa.googleapis.com # Telemetry
-datasaver.googleapis.com # Chrome's "data saver" feature
-feedback-pa.googleapis.com # Telemetry
-fonts.googleapis.com
-fonts.gstatic.com
+# GOOGLE
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
-pay-users-pa.googleapis.com # Browser Hijacking
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+
+# Google & Android api's
+auditrecording-pa.googleapis.com # Telemetry
+clientmetrics-pa.googleapis.com # Telemetry
+clienttracing-pa.googleapis.com # Telemetry
+datasaver.googleapis.com # Chrome's "data saver" feature - perfectly sane to ping google all the time
+feedback-pa.googleapis.com # Telemetry
+jnn-pa.googleapis.com # CMP storage
+firebaselogging-pa.googleapis.com # Telemetry
+pay-users-pa.googleapis.com # Browser Hijacking
 
 # Firefox
 ads.mozilla.org

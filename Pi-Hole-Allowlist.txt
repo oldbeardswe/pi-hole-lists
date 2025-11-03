@@ -1,5 +1,5 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-10-28
+# Last updated: 2025-11-03
 
 # Microsoft Defender Antivirus cloud-delivered protection
 wd.microsoft.com
@@ -37,19 +37,23 @@ msedge.api.cdp.microsoft.com # ms edge updater
 slscr.update.microsoft.com
 
 # Google
-android.clients.google.com
-firestore.googleapis.com
+fonts.gstatic.com # YouTube buttons and graphics
 fundingchoicesmessages.google.com # ad stuff - can break sites - block in ublock origin instead
-googleapis.l.google.com # gmail
 mtalk.google.com # push notifications
-people-pa.googleapis.com
-reminders-pa.googleapis.com
 s.youtube.com
 s.ytimg.com
 stats.g.doubleclick.net
 video-stats.l.google.com
 video-stats.video.google.com
 youtube-nocookie.com # youtube history
+
+# Google & Android api's
+android.clients.google.com
+firestore.googleapis.com
+fonts.googleapis.com
+googleapis.l.google.com # gmail
+people-pa.googleapis.com
+reminders-pa.googleapis.com
 
 # Signal Messaging app
 giphy-proxy-production.whispersystems.org
