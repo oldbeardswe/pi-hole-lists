@@ -1,6 +1,6 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-11-03
+# Last modified: 2025-11-11
 
 # GOOGLE
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
@@ -10,14 +10,16 @@ gvt3.com # Telemetry
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 
 # Google & Android api's
+androidpay-users-pa.googleapis.com # Nått betalhelvete... säkert Google Pay
 auditrecording-pa.googleapis.com # Telemetry
 clientmetrics-pa.googleapis.com # Telemetry
 clienttracing-pa.googleapis.com # Telemetry
 datasaver.googleapis.com # Chrome's "data saver" feature - perfectly sane to ping google all the time
 feedback-pa.googleapis.com # Telemetry
-jnn-pa.googleapis.com # CMP storage
 firebaselogging-pa.googleapis.com # Telemetry
+jnn-pa.googleapis.com # CMP storage
 pay-users-pa.googleapis.com # Browser Hijacking
+playatoms-pa.googleapis.com # What the fuck is wrong with you google
 
 # Firefox
 ads.mozilla.org
@@ -79,26 +81,29 @@ vortex-win.data.microsoft.com # Windows use this client to send client diagnosti
 watson.microsoft.com
 watson.telemetry.microsoft.com
 
-# tv4 play
+# TV4 PLAY ADS
 758658057962787.tv4mms.a2d.tv
-a-fds.youborafds01.com #flashback
-a113.dscv.akamai.net #flashback
+a-fds.youborafds01.com # flashback
+a113.dscv.akamai.net # flashback
 prism-ads-cdn.a2d.tv
 prism.a2d.tv
-tvm-tv4-freewheel.akamaized.net #flashback
+tvm-tv4-freewheel.akamaized.net # flashback
 
 # Other
 ads-router-eu.truecaller.com # Truecaller app
 analytics-fe.digital-cloud-prem.medallia.eu # Truecaller app
 anon1.gt232558.com # Unknown? Found on samsung phone.
+app-shopping-eu-pr.eufy.com # Eufy security app shop
 cdon.com # Bedrägeri
 cdon.se # Bedrägeri
 cmp.heise.de
 feed.ff.avast.com # Alarmclock Extreme android app
 fireoscaptiveportal.com
 firetvcaptiveportal.com
-m1.tuyaeu.com # Something with smarthome
+m1.tuyaeu.com # Eufy app. Something with smarthome.
+mall-web-eu.eufy.com # Eufy security app shop
 nordgross.se # Bedrägeri
+skyshowtime.com # Streaming. Very bad quality.
 tracking.aftonbladet.se
 tracking.expressen.se
 tuyaeu.com # Something with smarthome
