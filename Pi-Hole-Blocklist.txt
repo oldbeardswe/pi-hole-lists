@@ -1,25 +1,31 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-11-11
+# Last modified: 2025-11-12
 
-# GOOGLE
+
+# GOOGLE & ANDROID
+androidpay-users-pa.googleapis.com # Google Pay/Wallet
+auditrecording-pa.googleapis.com # Telemetry
+clientmetrics-pa.googleapis.com # Telemetry
+clienttracing-pa.googleapis.com # Telemetry
+connectivitycheck.gstatic.com
+datasaver.googleapis.com # Chrome's "data saver" feature - perfectly sane to ping google all the time
+feedback-pa.googleapis.com # Telemetry
+firebaseinstallations.googleapis.com # Telemetry
+firebaselogging-pa.googleapis.com # Telemetry
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
-www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-
-# Google & Android api's
-androidpay-users-pa.googleapis.com # Nått betalhelvete... säkert Google Pay
-auditrecording-pa.googleapis.com # Telemetry
-clientmetrics-pa.googleapis.com # Telemetry
-clienttracing-pa.googleapis.com # Telemetry
-datasaver.googleapis.com # Chrome's "data saver" feature - perfectly sane to ping google all the time
-feedback-pa.googleapis.com # Telemetry
-firebaselogging-pa.googleapis.com # Telemetry
 jnn-pa.googleapis.com # CMP storage
 pay-users-pa.googleapis.com # Browser Hijacking
-playatoms-pa.googleapis.com # What the fuck is wrong with you google
+playatoms-pa.googleapis.com # Google Play's measurement and analytics services
+regioninfo-pa.googleapis.com # Telemetry
+sdk-frameworks.telemetry.mobileservice.googleapis.com # Telemetry
+supl.google.com # Secure User Plane Location. Faster GPS lock but not needed and a big privacy risk.
+suggestqueries.google.com
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+
 
 # Firefox
 ads.mozilla.org
@@ -27,16 +33,25 @@ detectportal.firefox.com # captive-portal
 firefox.settings.services.mozilla.com # settings sync and some telemetry collection
 push.services.mozilla.com
 
+
 # Microsoft Bing
 rewards.bing.com
 testfamilysafety.bing.com
 
-# Eufy security - Undersök
+
+# EUFY SECURITY
+app-shopping-eu-pr.eufy.com # Eufy security app shop
 # app-house-eu-pr.eufy.com
 # app-news-eu-pr.eufy.com
-# app-shopping-eu-pr.eufy.com
 # mall-web-eu.eufy.com
 # pro-monitoring-eu-pr.eufy.com
+
+
+# Qualcomm China. Faster GPS lock but an privacy risk.
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
 
 # Microsoft
 ads.microsoft.com
@@ -81,6 +96,7 @@ vortex-win.data.microsoft.com # Windows use this client to send client diagnosti
 watson.microsoft.com
 watson.telemetry.microsoft.com
 
+
 # TV4 PLAY ADS
 758658057962787.tv4mms.a2d.tv
 a-fds.youborafds01.com # flashback
@@ -89,15 +105,17 @@ prism-ads-cdn.a2d.tv
 prism.a2d.tv
 tvm-tv4-freewheel.akamaized.net # flashback
 
+
 # Other
+adjust.com # Tracking
 ads-router-eu.truecaller.com # Truecaller app
 analytics-fe.digital-cloud-prem.medallia.eu # Truecaller app
 anon1.gt232558.com # Unknown? Found on samsung phone.
-app-shopping-eu-pr.eufy.com # Eufy security app shop
 cdon.com # Bedrägeri
 cdon.se # Bedrägeri
 cmp.heise.de
 feed.ff.avast.com # Alarmclock Extreme android app
+flurry.com # Tracking
 fireoscaptiveportal.com
 firetvcaptiveportal.com
 m1.tuyaeu.com # Eufy app. Something with smarthome.
