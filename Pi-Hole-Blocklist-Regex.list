@@ -1,5 +1,6 @@
 # Title: oldbeardswe pi-hole regex blocklist
-# Last updated: 2025-10-23
+# Last updated: 2026-02-23
+
 
 # Main
 (^|\.)(cn|ru|hk)$ # China, Russia, Hong-Kong
@@ -13,9 +14,22 @@
 (\.|^)rubiconproject\.com$
 (\.|^)crashlytics\.com$
 
-# TCL Smart-TV
-
 # Ads
 (\.|^)amazon-adsystem\.com$
 (\.|^)stickyadstv\.com$
 (\.|^)smartadserver\.com$
+
+# Palantir
+(^|\.)palantir\.com$
+(^|\.)palantir\.net$
+(^|\.)palantir\.tech$
+(^|\.)palantir\.dev$
+(^|\.)palantir\.cloud$
+(^|\.)palantircloud\.com$
+(^|\.)palantirfoundry\.com$
+(^|\.)palantirplatform\.com$
+(^|\.)palantirgov\.com$
+(^|\.)palantir\.ai$
+(^|\.)palantircdn\.com$
+(^|\.)palantirstatic\.com$
+(^|\.)palantir-.*\.com$

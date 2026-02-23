@@ -1,7 +1,17 @@
 # Title: oldbeardswe Pi-Hole Blocklist
 # Description: Small collection of url's usually not found on other blocklists
-# Last modified: 2025-11-12
+# Last modified: 2026-02-23
 
+
+# Palantir
+palantir.com
+www.palantir.com
+palantir.net
+palantirfoundry.com
+palantirplatform.com
+palantircloud.com
+palantir.dev
+palantir.tech
 
 # GOOGLE & ANDROID
 androidpay-users-pa.googleapis.com # Google Pay/Wallet
