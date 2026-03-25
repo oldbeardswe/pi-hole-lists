@@ -1,0 +1,18 @@
+# oldbeardswe
+# updated: 20260325
+
+
+# tv4 play
+758658057962787.tv4mms.a2d.tv
+a-fds.youborafds01.com # flashback
+a113.dscv.akamai.net # flashback
+prism-ads-cdn.a2d.tv
+prism.a2d.tv
+tvm-tv4-freewheel.akamaized.net # flashback
+
+# viaplay
+viaplay.com # Går ej att blocka ads
+viaplay.se # Går ej att blocka ads
+
+# skyshowtime
+skyshowtime.com # Very bad video quality. Not HD.

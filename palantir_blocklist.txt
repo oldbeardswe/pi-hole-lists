@@ -1,0 +1,15 @@
+# oldbeardswe
+# updated: 20260325
+
+
+# Palantir blocklist
+
+palantir.com
+www.palantir.com
+palantir.net
+www.palantir.net
+palantirfoundry.com
+palantirplatform.com
+palantircloud.com
+palantir.dev
+palantir.tech

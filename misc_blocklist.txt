@@ -1,0 +1,45 @@
+# oldbeardswe
+# updated: 20260325
+
+
+# Firefox
+ads.mozilla.org
+detectportal.firefox.com # captive-portal
+firefox.settings.services.mozilla.com # settings sync and some telemetry collection
+push.services.mozilla.com
+
+
+
+# EUFY SECURITY
+app-shopping-eu-pr.eufy.com # Eufy security app shop
+# app-house-eu-pr.eufy.com
+# app-news-eu-pr.eufy.com
+# mall-web-eu.eufy.com
+# pro-monitoring-eu-pr.eufy.com
+
+
+# Qualcomm China. Faster GPS lock but an privacy risk.
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+
+
+# Other
+adjust.com # Tracking
+ads-router-eu.truecaller.com # Truecaller app
+analytics-fe.digital-cloud-prem.medallia.eu # Truecaller app
+anon1.gt232558.com # Unknown? Found on samsung phone.
+cdon.com # Bedrägeri
+cdon.se # Bedrägeri
+cmp.heise.de
+feed.ff.avast.com # Alarmclock Extreme android app
+flurry.com # Tracking
+fireoscaptiveportal.com
+firetvcaptiveportal.com
+m1.tuyaeu.com # Eufy app. Something with smarthome.
+mall-web-eu.eufy.com # Eufy security app shop
+nordgross.se # Bedrägeri
+tracking.aftonbladet.se
+tracking.expressen.se
+tuyaeu.com # Something with smarthome
+yandex.ru

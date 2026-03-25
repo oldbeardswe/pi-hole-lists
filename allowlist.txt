@@ -1,0 +1,87 @@
+# oldbeardswe pi-hole allowlist
+# Last updated: 2025-11-12
+
+
+# Microsoft Defender Antivirus cloud-delivered protection
+wd.microsoft.com
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+
+
+# Microsoft Update Service (MU) and Windows Update Service (WU)
+# These services allow security intelligence and product updates
+ctldl.windowsupdate.com
+delivery.mp.microsoft.com
+fe3.delivery.mp.microsoft.com
+update.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+
+
+# Security intelligence updates Alternate Download Location (ADL)
+# Alt location for Microsoft Defender Antivirus Security intelligence updates
+definitionupdates.microsoft.com
+download.microsoft.com
+download.windowsupdate.com
+fe3cr.delivery.mp.microsoft.com
+go.microsoft.com
+
+
+# Certificate Revocation List (CRL)
+# Windows use this list while creating the SSL connection to MAPS for updating the CRL
+crl.microsoft.com
+
+
+# Microsoft
+activity.windows.com # ea play on xbox
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+fe2cr.update.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+msedge.api.cdp.microsoft.com # ms edge updater
+slscr.update.microsoft.com
+
+
+# GOOGLE YOUTUBE
+fonts.gstatic.com # YouTube buttons and graphics
+fundingchoicesmessages.google.com # ad stuff - can break sites - block in ublock origin instead
+s.youtube.com
+s.ytimg.com
+stats.g.doubleclick.net
+video-stats.l.google.com
+video-stats.video.google.com
+youtube-nocookie.com # youtube history
+
+
+# GOOGLE & ANDROID
+android.clients.google.com # Core for Google Account sync, Play Store, etc.
+backup.googleapis.com
+firestore.googleapis.com
+fonts.googleapis.com
+googleapis.l.google.com # gmail
+location.googleapis.com # Google's Location Services. Blocking will break precise location in many apps.
+mtalk.google.com # Core function. Push notifications like google play store, signal app, gmail etc.
+people-pa.googleapis.com
+play.googleapis.com # The core Play Services backend.
+reminders-pa.googleapis.com
+
+
+# Signal Messaging app
+giphy-proxy-production.whispersystems.org
+textsecure-service-whispersystems.org
+turn1.whispersystems.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+
+
+# Streaming video
+analytics.svt.se
+helix.svt.se
+
+# Other
+catalogue.smods.ru # game mods
+device-metrics-us-2.amazon.com # amazon alexa and amazon app
+device-metrics-us.amazon.com # amazon alexa and amazon app
+gdlp01.c-wss.com # canon printers
+license.theoplayer.com # Play videos on expressen.se
+prod.telemetry.ros.rockstargames.com # Grand Theft Auto V Online PC
+smods.ru # game mods
