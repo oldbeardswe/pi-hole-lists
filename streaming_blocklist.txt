@@ -1,5 +1,5 @@
 # oldbeardswe
-# updated: 20260325
+# updated: 20260331
 
 
 # tv4 play
@@ -15,4 +15,4 @@ viaplay.com # Går ej att blocka ads
 viaplay.se # Går ej att blocka ads
 
 # skyshowtime
-skyshowtime.com # Very bad video quality. Not HD.
+skyshowtime.com # Very bad video quality. Videos not in HD.

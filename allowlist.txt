@@ -1,6 +1,22 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2025-11-12
+# Last updated: 2026-03-31
 
+###################
+# VIDEO STREAMING #
+###################
+
+# Svt.se
+analytics.svt.se
+helix.svt.se
+
+# Tv4.play
+80276.v.fwmrm.net # Videos won't start if this is blocked.
+
+#######################################
+
+# Eufy
+p2p-sgp.anker-in.com
+security-app-eu.eufylife.com
 
 # Microsoft Defender Antivirus cloud-delivered protection
 wd.microsoft.com
@@ -57,6 +73,7 @@ youtube-nocookie.com # youtube history
 android.clients.google.com # Core for Google Account sync, Play Store, etc.
 backup.googleapis.com
 firestore.googleapis.com
+firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 googleapis.l.google.com # gmail
 location.googleapis.com # Google's Location Services. Blocking will break precise location in many apps.
@@ -72,10 +89,6 @@ textsecure-service-whispersystems.org
 turn1.whispersystems.org
 whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 
-
-# Streaming video
-analytics.svt.se
-helix.svt.se
 
 # Other
 catalogue.smods.ru # game mods
