@@ -1,22 +1,19 @@
 # oldbeardswe
-# updated: 20260325
+# updated: 20260410
 
 # GOOGLE & ANDROID
-androidpay-users-pa.googleapis.com # Google Pay/Wallet
 auditrecording-pa.googleapis.com # Telemetry
 clientmetrics-pa.googleapis.com # Telemetry
 clienttracing-pa.googleapis.com # Telemetry
 connectivitycheck.gstatic.com
 datasaver.googleapis.com # Chrome's "data saver" feature - perfectly sane to ping google all the time
 feedback-pa.googleapis.com # Telemetry
-firebaseinstallations.googleapis.com # Telemetry
 firebaselogging-pa.googleapis.com # Telemetry
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 gvt2-cn.com # Chiiina
 gvt2.com # Telemetry
 gvt3.com # Telemetry
 jnn-pa.googleapis.com # CMP storage
-pay-users-pa.googleapis.com # Browser Hijacking
 playatoms-pa.googleapis.com # Google Play's measurement and analytics services
 regioninfo-pa.googleapis.com # Telemetry
 sdk-frameworks.telemetry.mobileservice.googleapis.com # Telemetry

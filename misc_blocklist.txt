@@ -1,5 +1,5 @@
 # oldbeardswe
-# updated: 20260325
+# updated: 2026-04-10
 
 
 # Firefox
@@ -43,3 +43,12 @@ tracking.aftonbladet.se
 tracking.expressen.se
 tuyaeu.com # Something with smarthome
 yandex.ru
+web.cmp.usercentrics.eu
+
+
+# Cachy OS
+mirror.cachy-arch.ru
+mirror.jura12.ru
+mirror.nju.edu.cn
+mirrors.ustc.edu.cn
+wan.metrosg.ru

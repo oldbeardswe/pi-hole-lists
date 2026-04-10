@@ -1,5 +1,5 @@
 # oldbeardswe pi-hole allowlist
-# Last updated: 2026-03-31
+# Last updated: 2026-04-10
 
 ###################
 # VIDEO STREAMING #
@@ -71,14 +71,18 @@ youtube-nocookie.com # youtube history
 
 # GOOGLE & ANDROID
 android.clients.google.com # Core for Google Account sync, Play Store, etc.
+androidpay-users-pa.googleapis.com # Google Pay/Wallet
 backup.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com # används för att ändra beteendet och utseendet på en app i realtid, utan att användarna behöver ladda ner en ny version av appen
 firestore.googleapis.com
-firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 googleapis.l.google.com # gmail
 location.googleapis.com # Google's Location Services. Blocking will break precise location in many apps.
 mtalk.google.com # Core function. Push notifications like google play store, signal app, gmail etc.
-people-pa.googleapis.com
+pay-users-pa.googleapis.com # Google Pay/Wallet
+people-pa.googleapis.com # Den här adressen syns i nätverkstrafik när dina Google-appar synkroniserar kontakter i bakgrunden.
+people.googleapis.com # Det offentliga API:et som utvecklare använder för att bygga integrationer med Google Kontakter
 play.googleapis.com # The core Play Services backend.
 reminders-pa.googleapis.com
 
