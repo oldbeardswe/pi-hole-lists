@@ -28,7 +28,6 @@ xtrapath3.izatcloud.net
 adjust.com # Tracking
 ads-router-eu.truecaller.com # Truecaller app
 analytics-fe.digital-cloud-prem.medallia.eu # Truecaller app
-anon1.gt232558.com # Unknown? Found on samsung phone.
 cdon.com # Bedrägeri
 cdon.se # Bedrägeri
 cmp.heise.de
